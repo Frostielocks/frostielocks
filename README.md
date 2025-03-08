@@ -9,7 +9,7 @@ _Im [@Frostielocks](https://github.com/Frostielocks) and I:_
 _Cyber Security Consultancy and Training_
 
 I work as a security & privacy consultant at various clients and have been lucky to see Splynter grow from year one to where it is now.
-My field of expertise  _**ESA, Risk Management, Threat Modeling, SDLC, IoT Security, Cryptography, and Privacy**_.
+My field of expertise encompasses _**ESA, Risk Management, Threat Modeling, SDLC, IoT Security, Cryptography, and Privacy**_.
 Sometimes I also give one of our training sessions as a guest teacher.
 
 ## 🫎 Caring Caribou 🚗

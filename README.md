@@ -16,7 +16,7 @@ Sometimes I also give one of our training sessions as a guest teacher.
 _A friendly car security exploration tool for the CAN bus_
 
 [Caring Caribou](https://github.com/CaringCaribou/caringcaribou) is a wonderful tool that's kind of like the swiss army knife of automotive security.
-I contributed the fuzzer module that let's you send and analyze fuzzing payloads on the CAN bus.
+I contributed the fuzzer module that lets you send and analyze fuzzing payloads on the CAN bus.
 The original prototype of the module is available on my profile at [CAN-Fuzzer](https://github.com/Frostielocks/CAN-Fuzzer).
 
 ## 🚀 Hub Industries

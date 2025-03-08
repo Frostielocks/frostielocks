@@ -1,5 +1,4 @@
-## Hiya 👋
-Im [@Frostielocks](https://github.com/Frostielocks) and I:
+_Im [@Frostielocks](https://github.com/Frostielocks) and I:_
 * Work as a Security Architect at [Splynter](splynter.be) by day ☀️
 * Am one of the maintainers of [Hub Industries](https://github.com/Hub-Industries) by night 🌙
 * Love everything Enterprise Security Architecture (_ArchiMate_ 💕)
